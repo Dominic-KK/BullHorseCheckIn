@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         打卡提醒
+// @name         🤖 牛马福音：智能打卡救命脚本
 // @namespace    https://www.dominickk.top/
 // @version      0.1.0
 // @description  妈妈再也不用担心我被扣绩效了！支持自定义消息模板和一言功能
