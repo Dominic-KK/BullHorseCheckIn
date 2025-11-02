@@ -125,4 +125,14 @@ _温馨提示：本脚本只能解决忘打卡问题，不能解决老板画饼�
 
 喜欢请点击网页最底部赞赏按钮，支持作者继续创作！👉[https://blog.dominickk.top/about](https://blog.dominickk.top/about)
 
-或给作者点一个免费的 star 🌟 支持一下！ 👉[]()
+或给作者点一个免费的 star 🌟 支持一下！ 👉[https://github.com/Dominic-KK/BullHorseCheckIn](https://github.com/Dominic-KK/BullHorseCheckIn)
+
+## Star History
+
+<a href="https://www.star-history.com/#BullHorseCheckIn/BullHorseCheckIn&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=BullHorseCheckIn/BullHorseCheckIn&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=BullHorseCheckIn/BullHorseCheckIn&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=BullHorseCheckIn/BullHorseCheckIn&type=date&legend=top-left" />
+ </picture>
+</a>
